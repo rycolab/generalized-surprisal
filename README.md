@@ -9,8 +9,6 @@ Mario Giulianelli, Andreas Opedal, Ryan Cotterell.
 To reproduce our experiments, first run the notebook
 `analysis/emnlp2024/crossvalidation.ipynb`, then `analysis/emnlp2024/analysis.ipynb`. 
 
-_More detailed instructions coming soon._
-
 
 ### Data
 The Aligned dataset in the `data` folder is taken from the [prediction-resource](https://github.com/Andrea-de-Varda/prediction-resource) repository. Please cite the correct associated papers: 
