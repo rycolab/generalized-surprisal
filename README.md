@@ -1,12 +1,9 @@
-Repository for the preprint:
+## Generalized Measures of Anticipation and Responsivity in Online Language Processing  
 
-**Generalized Measures of Anticipation and Responsivity in Online Language Processing**.  
-Mario Giulianelli, Andreas Opedal, Ryan Cotterell.
 
---------
 
 ### Experiments and Analysis
-To reproduce our experiments, first run the notebook
+To reproduce our experiments in our [paper](https://arxiv.org/pdf/2409.10728), first run the notebook
 `analysis/emnlp2024/crossvalidation.ipynb`, then `analysis/emnlp2024/analysis.ipynb`. 
 
 
@@ -17,3 +14,15 @@ The Aligned dataset in the `data` folder is taken from the [prediction-resource]
 - [Frank et al., 2013](https://link.springer.com/article/10.3758/s13428-012-0313-y) for the eye-tracking and self-paced reading time data.
 - [Frank et al., 2015](https://www.sciencedirect.com/science/article/pii/S0093934X14001515) for the dataset of event-related brain potentials.
 
+### BibTeX
+```
+@inproceedings{giulianelli-etal-2024-generalized,
+    title={Generalized Measures of Anticipation and Responsivity in Online Language Processing},
+    author={Giulianelli, Mario and Opedal, Andreas and Cotterell, Ryan},
+    booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2024},
+    year = {2024},
+    publisher = {Association for Computational Linguistics},
+    address = {Miami, Florida, USA},
+    url={https://arxiv.org/pdf/2409.10728}
+}
+```
